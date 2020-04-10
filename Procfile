@@ -1,1 +1,1 @@
-bot:ruby 5min_bot.rb
+bot: ruby 5min_bot.rb
