@@ -9,4 +9,4 @@ twClient = Twitter::REST::Client.new do |config|
 end
 
 #ツイートする文字列
-twClient.update("10分おきにツイートするテスト＾＾")
+twClient.update("10分おきにツイートするテスト")
