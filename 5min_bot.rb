@@ -8,5 +8,5 @@ twClient = Twitter::REST::Client.new do |config|
     config.access_token_secret = ENV['MY_ACCESS_TOKEN_SECRET']
 end
 
-＃ツイートする文字列
+#ツイートする文字列
 twClient.update("5分おきにツイートするテスト＾＾")
